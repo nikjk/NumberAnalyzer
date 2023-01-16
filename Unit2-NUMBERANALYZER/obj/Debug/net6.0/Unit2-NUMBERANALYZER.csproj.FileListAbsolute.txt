@@ -1,0 +1,15 @@
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.csproj.AssemblyReference.cache
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.AssemblyInfoInputs.cache
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.AssemblyInfo.cs
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.csproj.CoreCompileInputs.cache
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\bin\Debug\net6.0\Unit2-NUMBERANALYZER.exe
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\bin\Debug\net6.0\Unit2-NUMBERANALYZER.deps.json
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\bin\Debug\net6.0\Unit2-NUMBERANALYZER.runtimeconfig.json
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\bin\Debug\net6.0\Unit2-NUMBERANALYZER.dll
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\bin\Debug\net6.0\Unit2-NUMBERANALYZER.pdb
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.dll
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\refint\Unit2-NUMBERANALYZER.dll
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.pdb
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\Unit2-NUMBERANALYZER.genruntimeconfig.cache
+C:\Users\middl\source\repos\Unit2-NUMBERANALYZER\Unit2-NUMBERANALYZER\obj\Debug\net6.0\ref\Unit2-NUMBERANALYZER.dll

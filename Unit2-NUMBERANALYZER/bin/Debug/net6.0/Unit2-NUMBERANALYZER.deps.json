@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit2-NUMBERANALYZER/1.0.0": {
+        "runtime": {
+          "Unit2-NUMBERANALYZER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit2-NUMBERANALYZER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
